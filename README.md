@@ -20,6 +20,7 @@
   - #### [my_statistics](https://github.com/ohananoshi/C_Projects/tree/main/Statistics)
   - #### [gnuplot_interface](https://github.com/ohananoshi/C_Projects/tree/main/gnuplot_interface)
   - #### [cmd_utilities](https://github.com/ohananoshi/C_Projects)
+  - #### [wyvern](https://github.com/ohananoshi/C_Projects/tree/main/numerical_methods)
 - #### Programs
   - #### [Password classifier](https://github.com/ohananoshi/C_Projects/tree/main/Password_classifier)
 
