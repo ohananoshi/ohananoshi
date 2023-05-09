@@ -19,6 +19,7 @@
   - #### [my_DSP](https://github.com/ohananoshi/C_Projects/tree/main/Digital_Signal_Processing)
   - #### [my_statistics](https://github.com/ohananoshi/C_Projects/tree/main/Statistics)
   - #### [gnuplot_interface](https://github.com/ohananoshi/C_Projects/tree/main/gnuplot_interface)
+  - #### [cmd_utilities](https://github.com/ohananoshi/C_Projects)
 - #### Programs
   - #### [Password classifier](https://github.com/ohananoshi/C_Projects/tree/main/Password_classifier)
 
