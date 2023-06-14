@@ -16,11 +16,11 @@
 ### C Projects
 
 - #### Headers
-  - #### [my_DSP](https://github.com/ohananoshi/C_Projects/tree/main/Digital_Signal_Processing)
-  - #### [my_statistics](https://github.com/ohananoshi/C_Projects/tree/main/Statistics)
+  - #### [my_DSP](https://github.com/ohananoshi/C_Projects/tree/main/Digital_Signal_Processing) (Digital Signal Processing Header)
+  - #### [my_statistics](https://github.com/ohananoshi/C_Projects/tree/main/Statistics) (Statistics Header)
   - #### [gnuplot_interface](https://github.com/ohananoshi/C_Projects/tree/main/gnuplot_interface)
   - #### [cmd_utilities](https://github.com/ohananoshi/C_Projects)
-  - #### [wyvern](https://github.com/ohananoshi/C_Projects/tree/main/numerical_methods)
+  - #### [wyvern](https://github.com/ohananoshi/C_Projects/tree/main/numerical_methods) (Numerical Methods Header)
 - #### Programs
   - #### [Password classifier](https://github.com/ohananoshi/C_Projects/tree/main/Password_classifier)
 
