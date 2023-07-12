@@ -16,7 +16,7 @@
 ### C Projects
 
 - #### Headers
-  - #### [my_DSP](https://github.com/ohananoshi/C_Projects/tree/main/Digital_Signal_Processing) (Digital Signal Processing Header)
+  - #### [my_DSP](https://github.com/ohananoshi/my_DSP/tree/main) (Digital Signal Processing Header)
   - #### [my_statistics](https://github.com/ohananoshi/C_Projects/tree/main/Statistics) (Statistics Header)
   - #### [gnuplot_interface](https://github.com/ohananoshi/C_Projects/tree/main/gnuplot_interface)
   - #### [cmd_utilities](https://github.com/ohananoshi/C_Projects)
