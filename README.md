@@ -16,10 +16,10 @@
 ### C Projects
 
 - #### Headers
-  - #### [my_DSP](https://github.com/ohananoshi/my_DSP/tree/main) (Digital Signal Processing Header)
+  - #### [my_DSP](https://github.com/ohananoshi/my_DSP) (Digital Signal Processing Header)
   - #### [my_statistics](https://github.com/ohananoshi/C_Projects/tree/main/Statistics) (Statistics Header)
-  - #### [gnuplot_interface](https://github.com/ohananoshi/C_Projects/tree/main/gnuplot_interface)
-  - #### [cmd_utilities](https://github.com/ohananoshi/C_Projects)
+  - #### [gnuplot_interface](https://github.com/ohananoshi/gplot_interface)
+  - #### [cmd_utils](https://github.com/ohananoshi/cmd_utils)
   - #### [wyvern](https://github.com/ohananoshi/C_Projects/tree/main/numerical_methods) (Numerical Methods Header)
   - #### [Swift Lexical Analyzer](https://github.com/ohananoshi/C_Projects/tree/main/Lexical_analyzer)
 - #### Programs
