@@ -10,6 +10,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
@@ -21,9 +22,15 @@
   - #### [gnuplot_interface](https://github.com/ohananoshi/gplot_interface)
   - #### [cmd_utils](https://github.com/ohananoshi/cmd_utils)
   - #### [wyvern](https://github.com/ohananoshi/Wyvern) ```Numerical Calculus```
-  - #### [Swift Lexical Analyzer](https://github.com/ohananoshi/C_Projects/tree/main/Lexical_analyzer)
+  - #### [Swift Lexical Analyzer](https://github.com/ohananoshi/Swift_Lexical_Analyzer)
 - #### Programs
   - #### [Password classifier](https://github.com/ohananoshi/Password_tester)
+
+### Dart Projects ```Just Console```
+
+### Flutter Projects
+
+### Python Projects
 
 ### Arduino Projects
 
@@ -32,3 +39,5 @@
 ### PIC Projects
 
 ### STM32 Projects
+
+### ESP32 Projects
