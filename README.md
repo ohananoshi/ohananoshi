@@ -25,6 +25,7 @@
   - #### [Swift Lexical Analyzer](https://github.com/ohananoshi/Swift_Lexical_Analyzer)
 - #### Programs
   - #### [Password classifier](https://github.com/ohananoshi/Password_tester)
+  - #### [CMD Chess Game](https://github.com/ohananoshi/cmd_chess)
 
 ### Dart Projects ```Just Console```
 
