@@ -33,14 +33,18 @@
 
 ### Python Projects
 
-### Arduino Projects
+### Microcontrollers Projects
 
-- #### [Horse Run](https://github.com/ohananoshi/Arduino_projects)
+- ### General
+  - #### Headers
+    - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API (test)```
 
-### PIC Projects
-- #### Headers
-  - #### [LCD API](https://github.com/ohananoshi/LCD_PIC_API)
+- ### Arduino Projects
 
-### STM32 Projects
+  - #### [Horse Run](https://github.com/ohananoshi/Arduino_projects)
 
-### ESP32 Projects
+- ### PIC Projects
+
+- ### STM32 Projects
+
+- ### ESP32 Projects
