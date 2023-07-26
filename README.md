@@ -37,7 +37,7 @@
 
 - ### General
   - #### Headers
-    - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API (test)```
+    - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API```
 
 - ### Arduino Projects
 
