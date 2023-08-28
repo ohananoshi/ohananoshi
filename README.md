@@ -28,20 +28,21 @@
   - #### [CMD Chess Game](https://github.com/ohananoshi/cmd_chess)
 
 ### Dart Projects ```Just Console```
+###### coming soon
 
 ### Flutter Projects
+###### coming soon
 
 ### Python Projects
+###### coming soon
 
 ### Microcontrollers Projects
-
-- ### General
-  - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API```
 
 - ### Arduino Projects
   - #### [Horse Run](https://github.com/ohananoshi/Arduino_projects)
 
 - ### PIC Projects
+  - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API```
 
 - ### STM32 Projects
 
