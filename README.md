@@ -14,7 +14,7 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-###
+### C
 
 - #### Headers
   - #### [my_DSP](https://github.com/ohananoshi/my_DSP) ```Digital Signal Processing```
