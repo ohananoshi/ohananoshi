@@ -14,10 +14,11 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### C Projects
+###
 
 - #### Headers
   - #### [my_DSP](https://github.com/ohananoshi/my_DSP) ```Digital Signal Processing```
+  - #### [Perceptron](https://github.com/ohananoshi/perceptron)
   - #### [my_statistics](https://github.com/ohananoshi/my_statistics) ```Statistical Calculus```
   - #### [gnuplot_interface](https://github.com/ohananoshi/gplot_interface)
   - #### [cmd_utils](https://github.com/ohananoshi/cmd_utils)
@@ -27,23 +28,25 @@
   - #### [Password classifier](https://github.com/ohananoshi/Password_tester)
   - #### [CMD Chess Game](https://github.com/ohananoshi/cmd_chess)
 
+### MATLAB
+
 ### Dart Projects ```Just Console```
 ###### coming soon
 
-### Flutter Projects
+### Flutter
 ###### coming soon
 
-### Python Projects
+### Python
 ###### coming soon
 
-### Microcontrollers Projects
+### Microcontrollers
 
-- ### Arduino Projects
+- ### Arduino
   - #### [Horse Run](https://github.com/ohananoshi/Arduino_projects)
 
-- ### PIC Projects
+- ### PIC
   - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API```
 
-- ### STM32 Projects
+- ### STM32
 
-- ### ESP32 Projects
+- ### ESP32
