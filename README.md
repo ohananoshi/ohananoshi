@@ -16,7 +16,7 @@
 
 - #### Headers
   - #### [my_DSP](https://github.com/ohananoshi/my_DSP) ```Digital Signal Processing```
-  - #### [Perceptron](https://github.com/ohananoshi/perceptron)
+  - #### [Perceptron](https://github.com/ohananoshi/perceptron) ```Neural Network Framework```
   - #### [my_statistics](https://github.com/ohananoshi/my_statistics) ```Statistical Calculus```
   - #### [gnuplot_interface](https://github.com/ohananoshi/gplot_interface)
   - #### [cmd_utils](https://github.com/ohananoshi/cmd_utils)
@@ -30,6 +30,7 @@
 
 - #### [fuzzy brake controller](https://github.com/ohananoshi/fuzzy_brake_controller)
 - #### [perceptron train](https://github.com/ohananoshi/matlab_perceptron_train)
+- #### [mlp train](https://github.com/ohananoshi/matlab_mlp_column_train)
 
 ### Dart Projects ```Just Console```
 ###### coming soon
