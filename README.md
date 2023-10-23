@@ -28,7 +28,8 @@
 
 ### MATLAB
 
-- #### [fuzzy_brake_controller](https://github.com/ohananoshi/fuzzy_brake_controller)
+- #### [fuzzy brake controller](https://github.com/ohananoshi/fuzzy_brake_controller)
+- #### [perceptron train](https://github.com/ohananoshi/matlab_perceptron_train)
 
 ### Dart Projects ```Just Console```
 ###### coming soon
