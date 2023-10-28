@@ -9,7 +9,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Matlab](https://img.shields.io/badge/MATLAB-darkblue?style=for-the-badge&logo=Matlab&logoColor=bcd683)
+![PIC](https://img.shields.io/badge/PIC-darkgreen?style=for-the-badge&logo=pic&logoColor=fcd672)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### C
@@ -35,7 +36,7 @@
 ### Dart Projects ```Just Console```
 ###### coming soon
 
-### Flutter
+### Dart-Flutter
 ###### coming soon
 
 ### Python
@@ -44,7 +45,6 @@
 ### Microcontrollers
 
 - ### Arduino
-  - #### [Horse Run](https://github.com/ohananoshi/Arduino_projects)
 
 - ### PIC
   - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API```
