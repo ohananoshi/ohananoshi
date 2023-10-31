@@ -47,7 +47,8 @@
 - ### Arduino
 
 - ### PIC
-  - #### [LCD_API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API```
+  - #### [LCD API](https://github.com/ohananoshi/LCD_16x2_API) ```16x2 LCD C API```
+  - #### [DC Voltimeter](https://github.com/ohananoshi/pic_dc_voltimeter)
 
 - ### STM32
 
