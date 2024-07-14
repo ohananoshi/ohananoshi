@@ -34,14 +34,8 @@
 - #### [perceptron train](https://github.com/ohananoshi/matlab_perceptron_train)
 - #### [mlp train](https://github.com/ohananoshi/matlab_mlp_column_train)
 
-### Dart Projects ```Just Console```
-###### coming soon
-
-### Dart-Flutter
-###### coming soon
-
 ### Python
-###### coming soon
+- #### [find_and_replace](https://github.com/ohananoshi/find_and_replace)
 
 ### Microcontrollers
 
