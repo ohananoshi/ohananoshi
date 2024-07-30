@@ -16,7 +16,8 @@
 ### C
 
 - #### Headers
-  - #### [C_Matrix](https://github.com/ohananoshi/C-Matrix)  ```Matrix abstraction```
+  - #### [C-Matrix](https://github.com/ohananoshi/C-Matrix)  ```Matrix operations abstraction```
+  - #### [C-Strings](https://github.com/ohananoshi/C-strings)
   - #### [my_DSP](https://github.com/ohananoshi/my_DSP) ```Digital Signal Processing```
   - #### [Perceptron](https://github.com/ohananoshi/perceptron) ```Neural Network Framework```
   - #### [my_statistics](https://github.com/ohananoshi/my_statistics) ```Statistical Calculus```
