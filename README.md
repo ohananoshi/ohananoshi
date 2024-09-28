@@ -8,12 +8,15 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-darkblue?style=for-the-badge&logo=Matlab&logoColor=bcd683)
 ![PIC](https://img.shields.io/badge/PIC-darkgreen?style=for-the-badge&logo=pic&logoColor=fcd672)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### C
+
+<a href="https://github.com/ohananoshi/haker_rank_challenges/tree/main/C">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Desafios" />
+</a>
 
 - #### Headers
   - #### [C-Matrix](https://github.com/ohananoshi/C-Matrix)  ```Matrix operations abstraction```
