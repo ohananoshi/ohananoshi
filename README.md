@@ -14,9 +14,10 @@
 
 ### C
 
-<a href="https://github.com/ohananoshi/haker_rank_challenges/tree/main/C">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Desafios" />
-</a>
+<a href="https://github.com/ohananoshi/haker_rank_challenges/tree/main/C" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Desafios" height=60 /> 
+    <img src="https://github.com/ohananoshi/badges/blob/main/c-bagde.png" height=60 />
+</a> 
 
 - #### Headers
   - #### [C-Matrix](https://github.com/ohananoshi/C-Matrix)  ```Matrix operations abstraction```
