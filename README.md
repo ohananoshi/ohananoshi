@@ -23,7 +23,7 @@
   - #### [C-Structures](https://github.com/ohananoshi/C-Strutures) ```lists, dictionaries, trees...```     
   - #### [C-Matrix](https://github.com/ohananoshi/C-Matrix)  ```Matrix operations abstraction```
   - #### [C-Strings](https://github.com/ohananoshi/C-strings)
-  - #### [my_DSP](https://github.com/ohananoshi/my_DSP) ```Digital Signal Processing```
+  - #### [C-DSP](https://github.com/ohananoshi/my_DSP) ```Digital Signal Processing```
   - #### [Perceptron](https://github.com/ohananoshi/perceptron) ```Neural Network Framework```
   - #### [my_statistics](https://github.com/ohananoshi/my_statistics) ```Statistical Calculus```
   - #### [gnuplot_interface](https://github.com/ohananoshi/gplot_interface)
