@@ -2,8 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-arruda-a28863232/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohananoshi&layout=compact)
-
 #### Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -20,6 +18,7 @@
 </a> 
 
 - #### Headers
+  - #### [C-FSM](https://github.com/ohananoshi/C-FSM) ```Function based procedural finite state machine```
   - #### [C-Structures](https://github.com/ohananoshi/C-Strutures) ```lists, dictionaries, trees...```     
   - #### [C-Matrix](https://github.com/ohananoshi/C-Matrix)  ```Matrix operations abstraction```
   - #### [C-Strings](https://github.com/ohananoshi/C-strings)
