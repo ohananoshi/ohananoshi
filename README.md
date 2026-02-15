@@ -11,12 +11,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### C
-
-<a href="https://github.com/ohananoshi/haker_rank_challenges/tree/main/C" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Desafios" height=60 /> 
-    <img src="https://github.com/ohananoshi/badges/blob/main/c5star-badge.png" height=60 />
-</a> 
-
 - #### Headers
   - #### [C-FSM](https://github.com/ohananoshi/C-FSM) ```Function based procedural finite state machine```
   - #### [C-Structures](https://github.com/ohananoshi/C-Strutures) ```lists, dictionaries, trees...```     
