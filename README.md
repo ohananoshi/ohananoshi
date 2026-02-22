@@ -13,7 +13,7 @@
 ### C
 - #### Headers
   - #### [C-FSM](https://github.com/ohananoshi/C-FSM) ```Function based procedural finite state machine```
-  - #### [C-Structures](https://github.com/ohananoshi/C-Strutures) ```lists, dictionaries, trees...```     
+  - #### [C-OBJ](https://github.com/ohananoshi/C-Obj) ```Complex generic structure handler```     
   - #### [C-Matrix](https://github.com/ohananoshi/C-Matrix)  ```Matrix operations abstraction```
   - #### [C-Strings](https://github.com/ohananoshi/C-strings)
   - #### [C-DSP](https://github.com/ohananoshi/my_DSP) ```Digital Signal Processing```
