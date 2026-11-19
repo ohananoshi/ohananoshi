@@ -99,6 +99,7 @@
 
 | Project | What it does | Tags |
 |---|---|---|
+| [C-Obj](https://github.com/ohananoshi/C-Obj) | Python-like data structures for C (lists, maps, sets, n-d arrays) built on one pluggable value type | `data structures` `generic` |
 | [C-Primitives](https://github.com/ohananoshi/C-Primitives) | Type descriptors for primitive types, to pass data generically through `void*` | `generic` `types` |
 | [C-Structures](https://github.com/ohananoshi/C-Structures) | Generic data structures in C | `WIP` |
 | [C-Strings](https://github.com/ohananoshi/C-strings) | String utilities: count, search, replace, split, join, file I/O | `strings` |
